@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\pc\eclipse-workspace\gmail"/>
+			<item value="C:\Users\pc\eclipse-workspace\bmi"/>
+			<item value="C:\Users\pc\eclipse-workspace\color\src\main\java\com\colour\color\GreeterServiceSpeechletRequestStreamHandler.java"/>
+			<item value="C:\Users\pc\eclipse-workspace\Sushmaa"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.custom.Animalgame"/>
+			<item value="com.custom.sendmail"/>
+			<item value="com.custom.gmail"/>
+			<item value="com.custom.bmi"/>
+			<item value="com.custom.calcicustom"/>
+			<item value="com.colour.color"/>
+			<item value="com.slot.uberswitch"/>
+			<item value="com.slot.calci"/>
+			<item value="com.slot.slots"/>
+			<item value="com.uber.Uberservicee"/>
+			<item value="com.uber.Uberservices"/>
+			<item value="com.uber.Uberservice"/>
+			<item value="com.sushmaa.Sushmaa"/>
+			<item value="com.ngit.studentapp"/>
+			<item value="com.kmit.studentdetails"/>
+		</list>
+		<list key="groupId">
+			<item value="com.custom"/>
+			<item value="com.colour"/>
+			<item value="com.slot"/>
+			<item value="com.uber"/>
+			<item value="com.sushmaa"/>
+			<item value="com.ngit"/>
+			<item value="com.kmit"/>
+		</list>
+		<list key="artifactId">
+			<item value="Animalgame"/>
+			<item value="sendmail"/>
+			<item value="gmail"/>
+			<item value="bmi"/>
+			<item value="calcicustom"/>
+			<item value="color"/>
+			<item value="uberswitch"/>
+			<item value="calci"/>
+			<item value="slots"/>
+			<item value="Uberservicee"/>
+			<item value="Uberservices"/>
+			<item value="Uberservice"/>
+			<item value="Sushmaa"/>
+			<item value="studentapp"/>
+			<item value="studentdetails"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,5 @@
+com\custom\gmail\GreeterServiceSpeechlet.class
+com\custom\gmail\App.class
+com\custom\gmail\GreeterServiceSpeechletRequestStreamHandler.class
+com\custom\gmail\Email.class
+com\custom\gmail\Email$1.class

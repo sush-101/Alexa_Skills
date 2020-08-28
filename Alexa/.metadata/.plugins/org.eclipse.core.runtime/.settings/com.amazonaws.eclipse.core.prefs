@@ -1,0 +1,10 @@
+7f6b0c58-9ba9-41ef-9187-bfab6156078e\:credentialProfileName=New Profile
+c00ceee5-8cda-411c-a207-16b35a5eab20\:credentialProfileName=Sushma_aws
+cognitoIdentityId=us-east-1\:fc6d274e-aab4-4884-a4e3-2c7e375d68b7
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=c00ceee5-8cda-411c-a207-16b35a5eab20|7f6b0c58-9ba9-41ef-9187-bfab6156078e
+currentAccount=c00ceee5-8cda-411c-a207-16b35a5eab20
+currentDefaultAccount=c00ceee5-8cda-411c-a207-16b35a5eab20
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+saveFilesAndProceed=always
